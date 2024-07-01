@@ -25,23 +25,22 @@ I'm a passionate **Software Developer** and **System Administrator** with extens
 
 ### 🔥 Familiarity with
 
- ![](https://img.shields.io/badge/Git-3f455f?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-3f455f?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Bash-3f455f?style=flat&logo=shell&logoColor=white)
-![](https://img.shields.io/badge/PHP-3f455f?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-3f455f?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-3f455f?style=flat&logo=postgresql&logoColor=white)</br>
+ ![](https://img.shields.io/badge/Docker-3f455f?style=flat&logo=docker&logoColor=white) ![](https://img.shields.io/badge/PHP-3f455f?style=flat&logo=php&logoColor=white)
+  ![](https://img.shields.io/badge/MySQL-3f455f?style=flat&logo=mysql&logoColor=white)
+   ![](https://img.shields.io/badge/MongoDB-3f455f?style=flat&logo=postgresql&logoColor=white)</br>
 ![](https://img.shields.io/badge/Laravel-3f455f?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Ineria.js-3f455f?style=flat&logo=inertia&logoColor=white)
-![](https://img.shields.io/badge/React.js-3f455f?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3f455f?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Livewire-3f455f?style=flat&logo=livewire&logoColor=white)</br>
+ ![](https://img.shields.io/badge/Inertia-3f455f?style=flat&logo=inertia&logoColor=white)
+  ![](https://img.shields.io/badge/Livewire-3f455f?style=flat&logo=livewire&logoColor=white)
+   ![](https://img.shields.io/badge/React-3f455f?style=flat&logo=react&logoColor=white)</br>
 ![](https://img.shields.io/badge/Next.js-3f455f?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Electron.js-3f455f?style=flat&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/Tailwind&nbsp;CSS-3f455f?style=flat&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Twitter&nbsp;Bootstrap-3f455f?style=flat&logo=bootstrap&logoColor=white)</br>
-![](https://img.shields.io/badge/Sass-3f455f?style=flat&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Astro-3f455f?style=flat&logo=astro&logoColor=white)
+![](https://img.shields.io/badge/Electron-3f455f?style=flat&logo=electron&logoColor=white)
+ ![](https://img.shields.io/badge/Tailwind-3f455f?style=flat&logo=tailwindcss&logoColor=white)
+  ![](https://img.shields.io/badge/UIKit-3f455f?style=flat&logo=uikit&logoColor=white)</br>
+   ![](https://img.shields.io/badge/Sass-3f455f?style=flat&logo=sass&logoColor=white)
+    ![](https://img.shields.io/badge/Express-3f455f?style=flat&logo=express&logoColor=white)
+     ![](https://img.shields.io/badge/Node-3f455f?style=flat&logo=node.js&logoColor=white)
+      ![](https://img.shields.io/badge/TypeScript-3f455f?style=flat&logo=typescript&logoColor=white)</br>
 ![](https://img.shields.io/badge/WordPress-3f455f?style=flat&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/Python-3f455f?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Firebase-3f455f?style=flat&logo=firebase&logoColor=white)
+ ![](https://img.shields.io/badge/Python-3f455f?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/FastAPI-3f455f?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Git-3f455f?style=flat&logo=git&logoColor=white)
